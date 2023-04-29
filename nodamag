@@ -2,4 +2,5 @@ getgenv().Water = State
 game:GetService('RunService').Stepped:connect(function()
 pcall(function()
 if getgenv().Water and game.Players.LocalPlayer.Character:FindFirstChild("WaterDetector")  then
-game.Players.LocalPlayer.Character.Humanoid.Health = 100 -- E
+game.Players.LocalPlayer.Character.WaterDetector:remove()
+end end) end) end)
