@@ -1,0 +1,5 @@
+for i,v in pairs(game.workspace:GetDescendants()) do
+if v.Name =="Water" then
+v:Destroy()
+end
+end
