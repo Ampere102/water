@@ -1,5 +1,5 @@
 for i,v in pairs(game.workspace:GetDescendants()) do
-if v.Name == "PointedRock" or v.Name == "PixelEnemy1" or v.Name == "PixelEnemy2" or v.Name == "PixelEnemy3" or v.Name
+if v.Name == "PointedRock" or v.Name == "PixelEnemy1" or v.Name == "Log" or v.Name == "PixelEnemy2" or v.Name == "PixelEnemy3" or v.Name
 == "PixelEnemy4" or v.Name == "PixelEnemy5" or v.Name == "PixelEnemy6" or v.Name == "Pizza" or v.Name == "Token" or v.Name == "MaskRock" or v.Name
 == "Lily1" or v.Name == "Lily2" or v.Name == "Lily3" or v.Name == "Film" or v.Name == "Ticket" or v.Name == "CrystalOre" or v.Name == "RockExplosive" or v.Name == "CaveRoofSpike"  
 or v.Name == "Toxic Barrel" or v.Name == "Acid" or v.Name == "Toxic Barrel" or v.Name
